@@ -9,9 +9,12 @@ UReport2是第一款基于Apache-2.0协议开源的中式报表引擎。
 1.  BSDN WIKI： [http://wiki.bsdn.org/display/UR/ureport2+Home](http://wiki.bsdn.org/display/UR/ureport2+Home)
 2.  w3cschool： [https://www.w3cschool.cn/ureport](https://www.w3cschool.cn/ureport)
 
-# QQ群
+目前从19年开始使用ureport，目前在以下方面进行了改进
 
-一群：423339793（已满），二群：636590564
+1.支持echart 图形化报表
+2.支持pdf打印，优化pdf打印错位问题
+3.支持精确的标签打印高、宽设置
+4.优化了报表表格的着色、线宽、线重
 
 
 
